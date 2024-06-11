@@ -14,7 +14,7 @@ Twitter is a sleek and modern Twitter clone built using HTML, Tailwind CSS, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/twitter.git
+   git clone https://github.com/shubham001official/twitter.git
    ```
 2. Navigate to the project directory:
    ```bash
